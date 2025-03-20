@@ -137,7 +137,7 @@ Response:
     "profile_picture": null,
     "bio": "Patient bio here"
   },
-  "token": "9944b09199c62bcf9418ad846dd0e4bbdfc6ee4b"
+  "token": "YOUR_AUTH_TOKEN_HERE"
 }
 ```
 
@@ -147,7 +147,7 @@ GET /api/users/me/
 ```
 Headers:
 ```
-Authorization: Token 9944b09199c62bcf9418ad846dd0e4bbdfc6ee4b
+Authorization: Token YOUR_AUTH_TOKEN_HERE
 ```
 
 
